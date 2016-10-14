@@ -13,7 +13,12 @@
     "googleAnalytics": "",
     "disqus": "blog-eegg-io"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "tu_k@naver.com",
+    "facebook": "tu_k@naver.com",
+    "instagram": "2ster_egg",
+    "github": "Easter-Egg"
+  },
   "theme": {
     "name": "casper"
   }
