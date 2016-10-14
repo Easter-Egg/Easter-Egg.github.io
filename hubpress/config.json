@@ -4,7 +4,17 @@
     "repositoryName": "Easter-Egg.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Easter Egg",
+    "description": "서비스를 개발하면서 직면하게 된 문제를 해결하는 과정을 담고 싶습니다.",
+    "logo": "https://avatars1.githubusercontent.com/u/6007758?v=3&s=466",
+    "cover": "https://cloud.githubusercontent.com/assets/6007758/19385570/11e03bfe-924a-11e6-9150-48c609331538.jpg",
+    "postsPerPage": "10",
+    "googleAnalytics": "",
+    "disqus": "blog-eegg-io"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
